@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/code.dir/src/cpu_stages.cpp.o CMakeFiles/code.dir/src/main.cpp.o  -o code 

@@ -1,3 +1,0 @@
-/mnt/c/Users/17138/Desktop/RISC-V Simulator/Pipeline/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/17138/Desktop/RISC-V Simulator/Pipeline/CMakeFiles/edit_cache.dir
-/mnt/c/Users/17138/Desktop/RISC-V Simulator/Pipeline/CMakeFiles/code.dir
