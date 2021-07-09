@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/17138/Desktop/RISC-V Simulator/Pipeline/src/advanced_components.hpp
+include.hpp
+/mnt/c/Users/17138/Desktop/RISC-V Simulator/Pipeline/src/include.hpp
+
+/mnt/c/Users/17138/Desktop/RISC-V Simulator/Pipeline/src/basic_components.hpp
+include.hpp
+/mnt/c/Users/17138/Desktop/RISC-V Simulator/Pipeline/src/include.hpp
+
+/mnt/c/Users/17138/Desktop/RISC-V Simulator/Pipeline/src/cpu_core.hpp
+decoder.hpp
+/mnt/c/Users/17138/Desktop/RISC-V Simulator/Pipeline/src/decoder.hpp
+basic_components.hpp
+/mnt/c/Users/17138/Desktop/RISC-V Simulator/Pipeline/src/basic_components.hpp
+advanced_components.hpp
+/mnt/c/Users/17138/Desktop/RISC-V Simulator/Pipeline/src/advanced_components.hpp
+
+/mnt/c/Users/17138/Desktop/RISC-V Simulator/Pipeline/src/cpu_stages.cpp
+cpu_core.hpp
+/mnt/c/Users/17138/Desktop/RISC-V Simulator/Pipeline/src/cpu_core.hpp
+
+/mnt/c/Users/17138/Desktop/RISC-V Simulator/Pipeline/src/decoder.hpp
+include.hpp
+/mnt/c/Users/17138/Desktop/RISC-V Simulator/Pipeline/src/include.hpp
+
+/mnt/c/Users/17138/Desktop/RISC-V Simulator/Pipeline/src/include.hpp
+cstdio
+-
+iostream
+-
+cstring
+-
+sstream
+-
+map
+-
+unordered_map
+-
+algorithm
+-
+cstdlib
+-
+iomanip
+-
+assert.h
+-
+
+/mnt/c/Users/17138/Desktop/RISC-V Simulator/Pipeline/src/main.cpp
+cpu_core.hpp
+/mnt/c/Users/17138/Desktop/RISC-V Simulator/Pipeline/src/cpu_core.hpp
+
