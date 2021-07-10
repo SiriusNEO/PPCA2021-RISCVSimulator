@@ -45,7 +45,8 @@ namespace RISC_V {
                                         std::cout << "Data Hazard: " << dataHazard << '\n';
                                         predictor.display(); */
 
-                    std::cout << 1.0*predictor.success/(predictor.success+predictor.wrong);
+                    //std::cout << 1.0*predictor.success/(predictor.success+predictor.wrong);
+                    //std::cout << clock.tick;
 #endif
                 }
 

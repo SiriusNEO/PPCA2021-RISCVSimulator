@@ -20,7 +20,7 @@
 #define MINE(_x) std::cout<<_x<<'\n';
 
 //#define DEBUG
-//#define LOCAL
+#define LOCAL
 
 namespace RISC_V {
     const size_t REG_N = 32, MEM_SIZE = 500000, FUNCTION_RETURN = 10, RETURN_ADDRESS = 1;
